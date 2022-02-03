@@ -1,0 +1,9 @@
+The decision tree algorithm is a powerful supervised learning algorithm widely used in Artificial Intelligence.
+1. We consider all the training set as our root. 
+2. We consider the attributes to be categorical for information gain and for gini index, and, they are considered continuous as well.
+3. Records are distributed recursively.
+4. Statistical methods are used for attributes as root or internal node.
+
+The logic of the program follows the following thought:
+1. We find the best attributes and put them on the root node
+2. 
